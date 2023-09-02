@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Muh Rafi Al Ayyubi</h1>
-<h3 align="center">I want to be an expert in cyber security🖥</h3>
+<h3 align="center">I want to be an expert in Cyber Security🖥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luminostar&label=Profile%20views&color=0e75b6&style=flat" alt="luminostar" /> </p>
 
