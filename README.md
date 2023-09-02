@@ -9,7 +9,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=luminostar&show_icons=false&locale=en" alt="luminostar" />
     </div>
     <div style="flex: 1; padding: 10px;">
-        <h3 align="left">Language Stats:</h3>
+        <h3 align="left">Most Language Stats:</h3>
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=luminostar&show_icons=true&locale=en&layout=compact" alt="luminostar" />
     </div>
 </div>
