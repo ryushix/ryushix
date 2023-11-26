@@ -2,10 +2,9 @@
 <h3 align="center">I want to be an expert in Cyber Security🖥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luminostar&label=Profile%20views&color=0e75b6&style=flat" alt="luminostar" /> </p>
+- 🌱 I’m currently studying at the **Kalimantan Institute of Technology**
 
 - 🔭 I have made a simple app project with my team [E-ConsultationSheet](https://github.com/fzhnf/e-ConsultationSheet-tubesPBO)
-
-- 🌱 I’m currently studying at the **Kalimantan Institute of Technology**
 
 - 🔭 I have also created a simple web project with my team [Inventory Management System](https://github.com/fzhnf/ims-gudang-toko)
 
